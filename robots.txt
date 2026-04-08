@@ -1,12 +1,12 @@
 # Robots.txt for Smily Kidz Pre-School
-# https://smilykidz.in
+# https://smileykidz.co.in
 
 User-agent: *
 Allow: /
 Disallow:
 
 # Sitemap location
-Sitemap: https://smilykidz.in/sitemap.xml
+Sitemap: https://smileykidz.co.in/sitemap.xml
 
 # Google Bot specifics
 User-agent: Googlebot

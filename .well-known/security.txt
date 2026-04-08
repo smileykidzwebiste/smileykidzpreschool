@@ -1,6 +1,6 @@
 # Security policy for Smily Kidz Pre-School website
 # https://securitytxt.org/
 
-Contact: mailto:userwebsite1029@gmail.com
+Contact: mailto:smileykidz12@gmail.com
 Preferred-Languages: en
-Canonical: https://smilykidz.in/.well-known/security.txt
+Canonical: https://smileykidz.co.in/.well-known/security.txt
